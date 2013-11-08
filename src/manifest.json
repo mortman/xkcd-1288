@@ -1,0 +1,15 @@
+{
+	"manifest_version": 2,
+	"name": "xkcd 1288, inspired by cloud-to-butt",
+	"version": "1.0",
+	"description": "Replaces the text entries as suggested by http://xkcd.com/1288/",
+	"content_scripts": 
+	[
+		{
+			"matches": ["*://*/*"],
+			"js": ["content_script.js"],
+			"run_at": "document_end"
+		}
+	]
+}
+

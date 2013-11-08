@@ -1,7 +1,7 @@
-cloud-to-butt
+xkcd-1288
 =============
 
-Chrome extension inspired by http://xkcd.com/1288/
+Chrome extension inspired by http://xkcd.com/1288/ and clout-to-butt
 
 
 
